@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "6502bee0e3b7bdd13bf971b1"
+  },
+  "title": "Batman Begins",
+  "Director": "Christopher Nolan",
+  "rating": 8.2,
+  "Cast": [
+    "Christian Bale",
+    "Michael Caine",
+    "Gary Oldman"
+  ],
+  "Year": 2005
+},
+{
+  "_id": {
+    "$oid": "6502bf6ee3b7bdd13bf971b4"
+  },
+  "title": "The Shawshank Redemption",
+  "Director": "Frank Darabont",
+  "rating": 9.3,
+  "Cast": [
+    "Tim Robbins",
+    "Morgan Freeman",
+    "Bob Gunton"
+  ],
+  "Year": 1994
+},
+{
+  "_id": {
+    "$oid": "6502bfdfe3b7bdd13bf971b6"
+  },
+  "title": "The Godfather",
+  "Director": "Christopher Nolan",
+  "rating": 9.2,
+  "Cast": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ],
+  "Year": 1972
+},
+{
+  "_id": {
+    "$oid": "6502c190e3b7bdd13bf971b8"
+  },
+  "title": "The Dark Knight",
+  "Director": "Christopher Nolan",
+  "rating": 9,
+  "Cast": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "Year": 2008
+},
+{
+  "_id": {
+    "$oid": "6502c222e3b7bdd13bf971ba"
+  },
+  "title": "12 Angry Men",
+  "Director": "Sidney Lumet",
+  "rating": 9,
+  "Cast": [
+    "Martin Balsam",
+    "John Fiedler",
+    "Lee J. Cobb"
+  ],
+  "Year": 1957
+},
+{
+  "_id": {
+    "$oid": "6502c31fe3b7bdd13bf971bc"
+  },
+  "title": "Schindler's List",
+  "Director": "Steven Spielberg",
+  "rating": 9,
+  "Cast": [
+    "Liam Neeson",
+    "Ben Kingsley",
+    "Ralph Fiennes"
+  ],
+  "Year": 1993
+},
+{
+  "_id": {
+    "$oid": "6502c3cee3b7bdd13bf971be"
+  },
+  "title": "Pulp Fiction",
+  "Director": "Quentin Tarantino",
+  "rating": 8.9,
+  "Cast": [
+    "Samuel L. Jackson",
+    "Amanda Plummer",
+    "John Travolta"
+  ],
+  "Year": 1994
+},
+{
+  "_id": {
+    "$oid": "6502c435e3b7bdd13bf971c0"
+  },
+  "title": "Forrest Gump",
+  "Director": "Robert Zemeckis",
+  "rating": 8.8,
+  "Cast": [
+    "Tom Hanks",
+    "Rebecca Williams",
+    "Sally Field"
+  ],
+  "Year": 1994
+},
+{
+  "_id": {
+    "$oid": "6502c499e3b7bdd13bf971c2"
+  },
+  "title": "Fight Club",
+  "Director": "David Fincher",
+  "rating": 8.8,
+  "Cast": [
+    "Edward Norton",
+    "Brad Pitt",
+    "Helena Bonham Carter"
+  ],
+  "Year": 1999
+},
+{
+  "_id": {
+    "$oid": "6502c4f1e3b7bdd13bf971c4"
+  },
+  "title": "The Matrix",
+  "Director": "The Wachowski Brothers",
+  "rating": 8.7,
+  "Cast": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "Year": 1999
+}]
